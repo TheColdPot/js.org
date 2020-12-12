@@ -1764,6 +1764,7 @@ var cnames_active = {
   "overtrack": "aidant.github.io/overtrack.js",
   "oz": "openzagreb.github.io",
   "p2psc": "kognise.github.io/p2psc",
+  "pecis": "techpot-studio.github.io/Pecis"
   "p3terx": "p3terx.github.io/P3TERX",
   "p7e4": "p7e4.github.io",
   "packit": "pouya-eghbali.github.io/packit",
@@ -1879,6 +1880,7 @@ var cnames_active = {
   "post-type-discovery": "twozeroone.github.io/post-type-discovery",
   "potion": "finnfiddle.github.io/potion",
   "pp": "promptpay.github.io",
+  "pecis": "techpot-studio.github.io/pecis"
   "ppt": "1ocalhost.github.io/ppt",
   "pptx": "meshesha.github.io/jspptxjs.github.io",
   "pranshuchittora": "pranshuchittora.github.io",
